@@ -3,7 +3,7 @@
    <description name="https://hanskit.github.io/s83765s83768/" url="https://hanskit.github.io/s83765s83768/">
       https://hanskit.github.io/s83765s83768/
    </description>
-   <feature url="features/de.htwdd.sf.beleg.feature_3.0.0.202406130852.jar" id="de.htwdd.sf.beleg.feature" version="3.0.0.202406130852">
+   <feature url="features/de.htwdd.sf.beleg.feature_4.0.0.202406130903.jar" id="de.htwdd.sf.beleg.feature" version="4.0.0.202406130903">
       <category name="Favorites"/>
    </feature>
    <category-def name="Favorites" label="Favorites Features">
