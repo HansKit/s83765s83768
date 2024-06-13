@@ -3,8 +3,12 @@
    <description name="https://hanskit.github.io/s83765s83768/" url="https://hanskit.github.io/s83765s83768/">
       https://hanskit.github.io/s83765s83768/
    </description>
-   <feature url="features/de.htwdd.sf.beleg.feature_2.0.0.qualifier.jar" id="de.htwdd.sf.beleg.feature" version="2.0.0.qualifier">
+   <feature url="features/de.htwdd.sf.beleg.feature_3.0.0.202406130852.jar" id="de.htwdd.sf.beleg.feature" version="3.0.0.202406130852">
       <category name="Favorites"/>
    </feature>
-   <category-def name="Favorites" label="Favorites Features"/>
+   <category-def name="Favorites" label="Favorites Features">
+      <description>
+         Favorites
+      </description>
+   </category-def>
 </site>
